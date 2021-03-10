@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "campus-9ef3f": {
+      "hosting": {
+        "connect-campus": [
+          "campus-9ef3f"
+        ]
+      }
+    }
+  }
+}
